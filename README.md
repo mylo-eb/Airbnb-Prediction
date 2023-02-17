@@ -12,3 +12,10 @@ https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data
 - scipy
 - matplotlib
 - panda
+
+## Results
+Airbnb hosts stand to gain significant advantages from utilizing these algorithms to establish rental prices, ultimately resulting in increased profitability. This approach can also foster growth and boost revenue for Airbnb as a whole.
+## Future Scope
+- The inclusion of supplementary factors like weather patterns and crime rates within neighborhoods can further enhance the accuracy of machine learning models in predicting rental prices. 
+- Integrating the output of the top-performing models into the Airbnb app, hosts will be able to easily determine the most optimal price points, which can increase their engagement with the platform. 
+- Deploying the machine learning model on cloud platforms such as Amazon Web Services (AWS) would enable us to make our product available on websites and accessible to users in various locations.
