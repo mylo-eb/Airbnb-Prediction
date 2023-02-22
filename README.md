@@ -14,7 +14,7 @@ https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data
 - panda
 
 ## Results
-Airbnb hosts stand to gain significant advantages from utilizing these algorithms to establish rental prices, ultimately resulting in increased profitability. This approach can also foster growth and boost revenue for Airbnb as a whole.
+Airbnb hosts stand to gain significant advantages from utilizing these algorithms to establish rental prices, ultimately resulting in increased profitability. This approach can also foster growth and boost revenue for Airbnb as a whole.In order to evaluate the effectiveness of a regression model for price prediction, it is essential to select appropriate metrics. One such metric is the Mean Squared Error (MSE), which is commonly used to measure the accuracy of regression models.
 ## Future Scope
 - The inclusion of supplementary factors like weather patterns and crime rates within neighborhoods can further enhance the accuracy of machine learning models in predicting rental prices. 
 - Integrating the output of the top-performing models into the Airbnb app, hosts will be able to easily determine the most optimal price points, which can increase their engagement with the platform. 
